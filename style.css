@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 255, 0);
+    
+    }
+    
+    .heading
+    {
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blueviolet;
+    
+    }
+    .note{
+    font-size: 15px;
+    color: black;
+    
+    }
+    
+    .copy_right_footer
+    {bottom: 0;
+         position:fixed ;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height: 3;
+    }
+    
+    canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blueviolet;
+    
+    
+    }
+    
+    
+    
+    
